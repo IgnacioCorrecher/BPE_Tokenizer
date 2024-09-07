@@ -52,3 +52,15 @@ To use the data:
 3. Use the loaded texts to train and test the BPE tokenizer
 
 For more detailed examples and usage, refer to the test.ipynb notebook.
+
+## Results
+
+Applying both tokenizers to the same random text, we see the following results, showcasing noticable improvements in tokenization using the regex-based approach:
+
+`Basic BPE Tokenizer: Lenght: 9760 vs 25908 -> 2.655X compression rate`
+
+`Regex-based BPE Tokenizer: Lenght: 9081 vs 25908 -> 2.853X compression rate`
+
+## Medium Article
+
+This repository is the companion code for the Medium article [Byte Pair Encoding (BPE) Tokenizer](https://medium.com/@prajwal.kumar/byte-pair-encoding-bpe-tokenizer-in-python-c6a4f7f8f3f9).
