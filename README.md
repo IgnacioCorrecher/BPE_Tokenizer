@@ -63,4 +63,4 @@ Applying both tokenizers to the same random text, we see the following results, 
 
 ## Medium Article
 
-This repository is the companion code for the Medium article [Byte Pair Encoding (BPE) Tokenizer](https://medium.com/@prajwal.kumar/byte-pair-encoding-bpe-tokenizer-in-python-c6a4f7f8f3f9).
+This repository is the companion code for the Medium article [Cracking the Code: The Language LLMs speak.](https://medium.com/@ignacorrecher/cracking-the-code-the-language-llms-speak-c3ef3f134bf0).
